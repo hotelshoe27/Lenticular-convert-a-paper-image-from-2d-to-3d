@@ -17,7 +17,7 @@ So check each two image's size(pixel) and Make both images the same size using '
 ### 2_divide image  
 ![123](https://user-images.githubusercontent.com/120359150/209760591-a6efdcbc-6114-48c5-b334-0658f625c3d9.PNG)  
 1. Select two images for making lenticular  
-(2). Select save path. The default save path is specified as the 'complete' folder, but you can replace it if you want.  
+2. (Option)Select save path. The default save path is specified as the 'complete' folder, but you can replace it if you want.  
 3. Insert number of piece for dividing. If you want to make a 'simple lenticular image', Number of piece is between 5 and 10 seems reasonable.  
 But If you want to make 'Real lenticular image', you have to check your lenticular lenses Lpi(Lens per inch) and calculate lenses array interval(See this picture  below).  
 ![1111](https://user-images.githubusercontent.com/120359150/209764567-84377226-acb4-41a8-8602-c0a2452f6218.jpg)  
