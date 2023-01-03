@@ -3,7 +3,7 @@
 - We can feel three-dimensional in 2D lenticular image by Binocular parallax. (skip the detailed theory😅)  
 - So this project makes lenticular image for feeling three-dimensional in 2D image, also make a 'Simple lenticular image' that looks different depending on the direction you see it.
 - **'Simple lenticular image'** can be printed and used immediately, but **'Real lenticular image'** requires the actual lenticular lens.
-- Only tow images can be used for this version, so you have to use only two images👀
+- Only two images can be used for this version, so you have to use only two images👀
 
 ---
 
